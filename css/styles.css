@@ -25,3 +25,8 @@ Body {
 .jumbotron {
   background-color:
 }
+@media screen and (max-width: 500px) {
+  body {
+    background-image: linear-gradient(#1c92d2,#f2fcfe);
+  }
+}
