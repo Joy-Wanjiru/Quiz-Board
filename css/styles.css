@@ -1,0 +1,27 @@
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+   text-shadow: 5px;
+}
+.jumbotron p {
+  font-size: 20px;
+  font-weight:normal;
+  text-align: justify;
+}
+#quizboard {
+  text-align: justify;
+  margin-left:20%;
+  margin-right: 20%;
+}
+#quizboard h2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+Body {
+  margin: 5% 5%;
+  background-color: #660033;
+}
+.jumbotron {
+  background-color:
+}
