@@ -7,7 +7,7 @@ $(document).ready(function(){
     var question5= $("input:radio[name=question5]:checked").val();
 
     var result=parseInt(question1)+parseInt(question2)+parseInt(question3)+parseInt(question4)+parseInt(question5);
-    $("#result").text("Great job! Your total score is: " +result + "%.");
+    $("#result").text("Your total score is: " +result + "%. Would you like to attempt the quiz again?");
 
     $("button").click(function() {
       $("#result-showing").toggle();
