@@ -4,26 +4,18 @@ AUTHOR: Muhia Joy Wanjiru
 
 
 PROJECT DESCRIPTION:
-This website allows users to take a Javascript quiz. Afterwards they are able to view their score by clicking the submit button.
-
+This website allows users to take a JavaScript quiz. The user is expected to answer the enlisted questions by clicking one of the radio buttons. Once a user is done answering the questions, they should click on the 'SUBMIT' button. Once they do this, the quiz form is automatically hidden and in its place, the user's score is shown.
 
 SETUP INSTRUCTIONS:
+git clone https://github.com/Joy-Wanjiru/Quiz-Board/tree/gh-pages
+
+TECHNOLOGIES USED:
+You will need the following installed in your local machine:
 JAVASCRIPT
 HTML
-CSS
+css
 Bootstrap
 jQuery
-
-
-BDD:
-
-|EXAMPLE                  |INPUT        |OUTPUT     |
-----------------------------------------------------------------
-|                         |             |          |
-|No checked radio buttons |Nothing      |NaN|
-||||
-||||
-
 
 LIVE LINK:
 Visit the website at https://joy-wanjiru.github.io/Quiz-Board/
