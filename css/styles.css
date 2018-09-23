@@ -1,29 +1,118 @@
-h1 {
-  font-size: 20px;
+.jumbotron h1 {
+  font-size: 50px;
   font-weight: bold;
   text-align: center;
-   text-shadow: 5px;
+  text-shadow: 5px;
+  color: white;
 }
+
 .jumbotron p {
   font-size: 20px;
   font-weight:normal;
   text-align: justify;
+  color: white;
 }
+
 #quizboard {
   text-align: justify;
-  margin-left:20%;
-  margin-right: 20%;
+  margin-left:10%;
+  margin-right: 10%;
 }
+
 #quizboard h2 {
   font-size: 40px;
   font-weight: bold;
 }
+
 Body {
   margin: 5% 5%;
-  background-image: linear-gradient(#da4453,#89216b);
+  background-color: #ffeeee;
 }
+
 .jumbotron {
-  background-color:
+  background-image: linear-gradient(#33001b,#ff0084);
+}
+
+#Footer {
+  background-image: linear-gradient(#ff0084,#33001b);
+  font-size: 20px;
+  margin-top: 10%;
+  width: 100%;
+  height: 100px;
+  background-size: cover;
+  text-align: center;
+  border-radius: 25px;
+  margin-left: 2%;
+  margin-right: 5%;
+}
+
+.Intro {
+text-align: left;
+font-size: 25px;
+font-weight: bolder;
+margin-left:10%;
+}
+
+h2 {
+  margin-left: 15%;
+  font-size: 38px;
+  font-weight: bold;
+  color:  #33001b;
+}
+
+.submit p {
+  font-size: 18px;
+  font-weight: bolder;
+  color: #33001b;
+}
+
+.radio {
+  font-size: 16px;
+}
+
+img {
+  margin-top:10%;
+  width: 100px;
+  height: 80px;
+}
+
+button {
+  color: white;
+  border-radius: 35px;
+  background-color: #33001b;
+}
+
+p {
+  color: #33001b;
+  font-size: 20px;
+}
+
+.Intro p {
+  font-size: 24px;
+}
+
+#result{
+  text-align: center;
+  font-size: 30px;
+  color: #33001b;
+  font-weight: bold;
+}
+
+h3{
+  color:  #33001b;
+}
+
+#Header {
+  background-color: #33001b;
+  width: 100%;
+  height: 80px;
+  text-align: center;
+  margin-bottom: 4%;
+  font-size: 18px;
+}
+
+#Footer p {
+  color: white;
 }
 @media screen and (max-width: 500px) {
   body {
