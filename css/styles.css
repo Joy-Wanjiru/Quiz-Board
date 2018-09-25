@@ -62,10 +62,14 @@ h2 {
   color:  #33001b;
 }
 
-.submit p {
+.submit  {
   font-size: 18px;
   font-weight: bolder;
   color: #33001b;
+  margin-right: 0px;
+}
+.btn{
+  margin-right: 0px;
 }
 
 .radio {
