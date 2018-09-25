@@ -18,6 +18,7 @@ Bootstrap
 jQuery
 
 BEHAVIOR DRIVEN DEVELOPMENT:
+--------------------------------------------------------------------------------------------------------------
 EXAMPLE                                                          |    INPUT                            |OUTPUT
 ------------------------------------------------------------------------------------------------------------
 When user wants to answer questions                              | Click on radio buttons              |Score is calculated based on whether answers are correct|
